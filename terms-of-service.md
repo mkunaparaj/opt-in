@@ -1,8 +1,6 @@
-# Terms of Service
+# GitHub Terms of Service
 
-## 1. Service Overview
-
-These Terms of Service govern your use of our services. By using our services, you agree to be bound by these terms.
+These are GitHub's Terms of Service. They govern your use of GitHub's services. By using GitHub's services, you agree to be bound by these terms.
 
 ## 2. Use of Services
 
@@ -36,4 +34,4 @@ We reserve the right to modify these terms at any time. Your continued use const
 
 ## 8. Contact Information
 
-For questions about these terms, contact us at legal@example.com.
+For questions about these terms, contact GitHub at legal@example.com.

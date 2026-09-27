@@ -1,8 +1,10 @@
-# Privacy Policy
+# GitHub Privacy Policy
+
+This is GitHub's Privacy Policy. It governs how GitHub collects, uses, and shares personal data from users of GitHub's services.
 
 ## Data Collection and Use
 
-We collect personal data from users to provide our services. This includes information you provide directly and information we collect automatically.
+We collect personal data from users to provide GitHub's services. This includes information you provide directly and information we collect automatically.
 
 ## Sharing Personal Data with Third Parties
 
@@ -16,7 +18,7 @@ This exemption ensures that your mobile number, SMS opt-in status, and SMS conse
 
 ## Your Rights
 
-You have the right to access, correct, and delete your personal data. Contact our privacy team at privacy@example.com for any requests.
+You have the right to access, correct, and delete your personal data. Contact GitHub's privacy team at privacy@example.com for any requests.
 
 ## Changes to This Policy
 
